@@ -3,7 +3,8 @@
 > [!IMPORTANT]
 > __Статус__: ищу работу или возможность стажировки
 -->
-<!--тут должно быть портфолио-->
+
+
 
 <!--
 **y4r1k-1337/y4r1k-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
